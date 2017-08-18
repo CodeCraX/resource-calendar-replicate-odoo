@@ -1,0 +1,2 @@
+# This has to be in resource.calendar.form view in resource_views
+<button name="dup_line" string="Replicate" icon="fa-copy" type="object" class="oe_edit_only"/>
